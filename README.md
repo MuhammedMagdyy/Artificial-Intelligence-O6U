@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Prolog
+# Artificial-Intelligence-O6U
