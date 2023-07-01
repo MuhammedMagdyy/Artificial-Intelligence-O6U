@@ -31,6 +31,5 @@ To set up this repository locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/MuhammedMagdyy/Artificial-Intelligence-O6U.git`
 2. Change to the project's directory: `cd Artificial-Intelligence-O6U`
-3. [Add any additional steps for installation, such as package dependencies, environment setup, etc.]
 
 Happy coding!
