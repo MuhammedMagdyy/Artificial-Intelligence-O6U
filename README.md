@@ -14,7 +14,7 @@ Artificial Intelligence O6U is a repository for helping my colleagues to practic
 
 ## Topics
 
-Hare are Some of the notable topics available in this repository:
+Here are Some of the notable topics available in this repository:
 
 - [Family relationships](Family-Relationships.pl): Family relationships `Family tree` in Prolog allow us to represent and reason about familial connections using logical rules and facts. By defining predicates like parent(X, Y) and sibling(X, Y), we can create a comprehensive representation of family trees. Prolog's backtracking mechanism enables us to query the family tree and infer new relationships. This provides a concise and logical approach to understanding family dynamics and genealogy.
 - [Operations](List-Operations.pl): This file contains the most used operations used in Prolog, such as:
@@ -29,7 +29,13 @@ Feel free to explore each topic directory.
 
 To set up this repository locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MuhammedMagdyy/Artificial-Intelligence-O6U.git`
-2. Change to the project's directory: `cd Artificial-Intelligence-O6U`
+1. Clone the repository
+```
+   git clone https://github.com/MuhammedMagdyy/Artificial-Intelligence-O6U.git
+```
+2. Change to the project's directory: 
+```
+cd Artificial-Intelligence-O6U
+```
 
 Happy coding!
