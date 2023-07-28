@@ -33,7 +33,7 @@ To set up this repository locally, follow these steps:
 ```
    git clone https://github.com/MuhammedMagdyy/Artificial-Intelligence-O6U.git
 ```
-2. Change to the project's directory: 
+2. Change to the project's directory
 ```
 cd Artificial-Intelligence-O6U
 ```
